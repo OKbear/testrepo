@@ -1,9 +1,7 @@
 # This is a title
 ## This is a sub-title
-- This is an ilegal item.
-- This is also an ilegal item.
-
-This is a fake bug fix.
-This is also fake.
-More and more and more fake!!
-I want you to incorpolate this!!
+- This is the first item.
+- This is the second item.
+  - This is the first sub-item of the second item.
+  - This is the second sub-item of the second item.
+- This is the third item.
