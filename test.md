@@ -8,3 +8,4 @@
 
 Upstream's new update.
 Please accept my Pull Request.
+I added a line as you said.
