@@ -7,3 +7,5 @@
 - This is the third item.
 
 Upstream's new update.
+Please accept my Pull Request.
+Deleted.
